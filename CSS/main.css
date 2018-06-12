@@ -1,0 +1,51 @@
+.first-div {
+  background-image: url(../img/car10.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 650px;
+}
+
+.navbar {
+  float: right;
+}
+
+.car-yellow {
+  height: 200px;
+  width: 350px;
+}
+
+.col-4 {
+  height: 600px;
+  padding-top: 200px;
+}
+
+ul li {
+  display: inline-block;
+  padding: 10px 20px;
+
+}
+
+ul {
+
+  text-align: center;
+  text-decoration: none;
+}
+
+.ul a {
+  display: inline-block;
+  color: #fff;
+}
+
+section p {
+   font-size: 25px;
+   padding: 40px 90px;
+}
+
+.image {
+  background-image: url(../img/car4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 650px;
+}
